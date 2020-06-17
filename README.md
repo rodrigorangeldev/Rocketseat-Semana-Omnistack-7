@@ -26,7 +26,7 @@ Este projeto tem como propósito criar um clone do Instagram, de forma didática
 
 ## :information_source: Como usar
 
-Para rodar este projeto você vai precisar go Git instalado no seu computador, um gerenciador de pacotes (Yarn ou npm) juntamente com o  NodeJs.
+Para rodar este projeto você vai precisar do Git instalado no seu computador, um gerenciador de pacotes (Yarn ou npm) juntamente com o  NodeJs.
 
 ### Instalação da API
 
@@ -61,7 +61,7 @@ $ yarn start | npm start
 # deverá rodar na porta 3000
 ```
 
-### Instalação Mobile
+### Instalação instarocket
 
 ```bash
 
